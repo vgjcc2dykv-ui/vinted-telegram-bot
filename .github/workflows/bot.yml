@@ -7,5 +7,5 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - name: Tester le bot
-        run: echo "Le workflow fonctionne !"
+      - name: Test
+        run: echo "OK"
